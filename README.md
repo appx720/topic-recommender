@@ -1,2 +1,6 @@
-# topic-recommender
-made with Google Gemini API
+## 주제 추천 프로그램
+
+-Gemini API 사용
+-기초, 심화 탐구 주제 구분
+
+2024년 바야흐로 BHC에 사용
